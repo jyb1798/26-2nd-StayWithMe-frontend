@@ -26,9 +26,7 @@ Styled-Components, JavaScript(ES6)
 - Back-end: Django, Python, MySQL, jwt, bcrypt, AWS(EC2, RDS)
 - 협업툴: Trello, Slack, Notion, Github, dbdiagram, postman
 
-## 구현 기능 및 개인 역할
-
-> Login/Register, PaymentPage 
+## 역할 및 구현 기능
 
 [Login/Register]
 - 카카오 Open API를 이용한 소셜로그인 기능 구현
