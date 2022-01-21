@@ -27,14 +27,16 @@
 
 ## 역할 및 구현 기능
 
-[Login/Register]
+[소셜로그인]
 - 카카오 Open API를 이용한 소셜로그인 기능 구현
 - 로그인시 백엔드에서 발행한 Token을 Local storage에 저장
-- AWS S3를 이용하여 배포
 
-[PaymentPage]
+[결제]
 - useSearchParams(), fetch()를 사용하여 이전 페이지에서 선택한 정보들을 불러오는 기능 구현
 - 체크박스 전체선택/전체해제 구현
+
+[배포]
+- AWS S3를 이용하여 배포
 
 ## 소감 및 후기
 
